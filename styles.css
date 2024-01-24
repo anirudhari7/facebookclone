@@ -1,0 +1,142 @@
+.left-section{
+    width: 50%;
+    float: left;
+}
+
+.right-section{
+    width: 50%;
+    float: left;
+    height: 50px;
+}
+
+.content{
+    background: #f1f1f3;
+    height: 900px;
+    padding: 0%;
+}
+
+body{
+    margin: 0;
+}
+
+.image{
+    width: 399px;
+    padding-left: 152px;
+    padding-top: 221px;
+    padding-bottom: 0;
+    
+}
+
+.para{
+    font-size: 35px;
+    padding-left: 184px;
+    padding-top: 0px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: -8px;
+    margin-bottom: 0%;
+}
+
+.form{
+    width: 450px;
+    height: 390px;
+    background: rgb(255, 255, 255);
+    margin-left: 118px;
+    margin-top: 170px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: inset;
+}
+
+.entry{
+    
+    width: 430px;
+    height: 62px;
+    margin-bottom: 17px;
+    border-radius: 7px;
+    border-width: -2px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;   
+    text-align: left; 
+    padding-left: 19px;
+}
+
+.button{
+    margin-bottom: 12px;
+    width: 453px;
+    height: 62px;
+    border-radius: 7px;
+    border-width: 1px;
+    border-width: 0%;
+    font-size: 25px; 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    line-height: 48px;
+    text-align: center;
+    background: #1877f2;
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+
+.link{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+    color: #1877f2;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 148px;
+    cursor: pointer;
+    text-decoration: none;
+    height: 100px;
+}
+
+.hr{
+    width: auto;
+    margin-top: 27px;
+    margin-bottom: 10px;
+}
+
+.button1{
+    background: #42b72a;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    width: 227px;
+    height: 59px;
+    margin-left: 115px;
+    border-radius: 7PX;
+    cursor: pointer;
+}
+
+.linkAndPara{
+    margin-top: 35px;
+    margin-left: 175px;
+}
+
+.link1{
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 300px;
+}
+
+.para2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+    font-weight: 100;
+}
+
+.footer{
+    height: 220px;
+    margin-left: 185px;
+    margin-right: 185px;
+}
+
+.link2{
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: black;
+}
